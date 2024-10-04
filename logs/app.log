@@ -1,0 +1,44 @@
+2024-09-17 23:20:01 [main] INFO  testCases.Authentication - Response time is within range.
+2024-09-18 00:14:10 [main] INFO  testCases.GetAllAccounts - ****First Account Id****
+2024-09-18 00:31:26 [main] INFO  testCases.GenerateBearerToken - Response time is within range.
+2024-09-18 00:44:42 [main] INFO  testCases.GenerateBearerToken - Response time is within range.
+2024-09-18 00:44:43 [main] INFO  testCases.GetSingleAccountInfo - ****Actual account Name****MD Techfios account 111
+2024-09-18 00:44:43 [main] INFO  testCases.GetSingleAccountInfo - ****Actual account Number****123456789
+2024-09-18 00:44:43 [main] INFO  testCases.GetSingleAccountInfo - ****Actual Description****Test description 1
+2024-09-18 00:44:43 [main] INFO  testCases.GetSingleAccountInfo - ****Actual Balance****100.22
+2024-09-18 00:44:43 [main] INFO  testCases.GetSingleAccountInfo - ****Actual Contact_Person****MD Islam
+2024-09-18 00:54:14 [main] INFO  testCases.GenerateBearerToken - Response time is within range.
+2024-09-18 00:54:16 [main] INFO  testCases.GetSingleAccountInfo - ****Actual account Name****MD Techfios account 111
+2024-09-18 00:54:16 [main] INFO  testCases.GetSingleAccountInfo - ****Actual account Number****123456789
+2024-09-18 00:54:16 [main] INFO  testCases.GetSingleAccountInfo - ****Actual Description****Test description 1
+2024-09-18 00:54:16 [main] INFO  testCases.GetSingleAccountInfo - ****Actual Balance****100.22
+2024-09-18 00:54:16 [main] INFO  testCases.GetSingleAccountInfo - ****Actual Contact_Person****MD Islam
+2024-09-18 10:48:02 [main] INFO  testCases.GenerateBearerToken - Response time is within range.
+2024-09-18 10:48:04 [main] INFO  testCases.CreateAccount - ****Actual account Name****Account created successfully.
+2024-09-18 11:17:02 [main] INFO  testCases.GenerateBearerToken - Response time is within range.
+2024-09-18 11:17:03 [main] INFO  testCases.CreateAccount - ****Actual account Name****Account created successfully.
+2024-09-18 11:17:05 [main] INFO  testCases.CreateAccount - ****First Account Id****952
+2024-09-18 11:17:06 [main] INFO  testCases.GenerateBearerToken - Response time is within range.
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual account Name****LKPractice account 150
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual account Number****1388892468
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual Description****Test description 100
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual Balance****4000.22
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual Contact_Person****LKM
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual account Name****LKPractice account 150
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual account Number****1388892468
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual Description****Test description 100
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual Balance****4000.22
+2024-09-18 11:17:07 [main] INFO  testCases.CreateAccount - ****Actual Contact_Person****LKM
+2024-09-18 12:13:36 [main] INFO  testCases.GenerateBearerToken - Response time is within range.
+2024-09-18 12:13:38 [main] INFO  testCases.UpdateAccount - ****Actual account Name****Account updated successfully.
+2024-09-18 12:13:39 [main] INFO  testCases.GenerateBearerToken - Response time is within range.
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual account Name****LKPractice account 150
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual account Number****1388892468
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual Description****Test description 200
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual Balance****2220.22
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual Contact_Person****LKM
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual account Name****LKPractice account 150
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual account Number****1388892468
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual Description****Test description 200
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual Balance****2220.22
+2024-09-18 12:13:40 [main] INFO  testCases.UpdateAccount - ****Actual Contact_Person****LKM
